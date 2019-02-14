@@ -1,5 +1,5 @@
 # javascripting
     
-    https://github.com/workshopper/javascripting
+    https://github.com/workshopper/learnyounode
 
 #
